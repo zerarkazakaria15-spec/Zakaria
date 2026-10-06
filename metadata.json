@@ -1,0 +1,6 @@
+{
+  "name": "PianoPiano.dz - Restaurant El Madania Alger",
+  "description": "Site officiel du restaurant PianoPiano.dz à Riadh El Feth, El Madania, Alger. Cuisine méditerranéenne raffinée, ambiance musicale et réservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
